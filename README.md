@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Image-Editing-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Image-Editing-API?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Image-Editing-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Image-Editing-API?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Image-Editing-API/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Image-Editing-API?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Image-Editing-API/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Image-Editing-API?style=flat-square&color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,7 +57,7 @@ The following cloud platforms offer robust production SLAs, auto-scaling infrast
 
 Self-hosted open-source models allow complete control over data privacy, custom fine-tuning, and zero per-image API costs when running on self-hosted GPU infrastructure.
 
-> **Note:** Sorted by **GitHub Star Count** in descending order. Star badges link directly to each repository's stargazers page.
+> **Note:** Sorted by **GitHub Stars_Count** in descending order. Stars_Badges link directly to each repository's stargazers page.
 
 1. **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**  
    <a href="https://github.com/comfyanonymous/ComfyUI/stargazers"><img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="ComfyUI Stars"/></a>  
@@ -121,7 +121,7 @@ Self-hosted open-source models allow complete control over data privacy, custom 
 
 1. Fork this repository.
 2. Add your SaaS product or Open-Source project entry following the established table / list format.
-3. Ensure exact, verifiable pricing, free trial specs, company valuation, and star count badges are included.
+3. Ensure exact, verifiable pricing, free trial specs, company valuation, and Stars_Count badges are included.
 4. Submit a Pull Request (PR) with a clear description of your contribution.
 
 ---
